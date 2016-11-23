@@ -1,0 +1,12 @@
+#tblProductos{
+	width:100%;
+	border:solid 2 black;
+}
+
+#tblProductos  tbody{
+	background:pink;
+	color:blue;
+}
+#tblProductos  tbody h4{
+color:black;
+}
